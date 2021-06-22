@@ -10,7 +10,7 @@ Realistic Abstract scene in blender.
   </summary>
   <br>
   <pre>
-  Go ahead and download the .blend file 
+  Go ahead and download the .blend file, present in the 'Files' folder.
     <ol>
     <li>First open the file in blender.</li>
     <li>Then in the outliner context panel select the camera and set it to whichever angle you like.</li>
@@ -25,7 +25,7 @@ Realistic Abstract scene in blender.
   </summary>
   <br>
   <pre>
-  Go ahead and open the Images folder.
+  Go ahead and open the Images folder to get the images.
   <ul>
     <li>There are rendered images in png format for you to download and view.</li>
   </ul>
