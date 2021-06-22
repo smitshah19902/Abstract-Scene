@@ -27,7 +27,7 @@ Shin Chan head sculpt in blender.
   <pre>
   Go ahead and open the Images folder.
   <ul>
-    <li>There are rendered images in jpg format for you to download and view.</li>
+    <li>There are rendered images in png format for you to download and view.</li>
   </ul>
   </pre>
  </details>
