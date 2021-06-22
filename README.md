@@ -13,6 +13,7 @@ Realistic Abstract scene in blender.
   Go ahead and download the .blend file, present in the 'Files' folder.
     <ol>
     <li>First open the file in blender.</li>
+    <li>Now, go to Shading and select the texture of wall from the 'Textures' folder.</li>
     <li>Then in the outliner context panel select the camera and set it to whichever angle you like.</li>
     <li>And then render the file! (Hit f12 for your ease!).
   </ol>
